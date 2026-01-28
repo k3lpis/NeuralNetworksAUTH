@@ -1,2 +1,1 @@
-# NeuralNetworksAUTH
-This is a repository with my work during the Neural Networks course of the Computer Science Departmetn of AUTH (Aristotle University Of Thessaloniki)
+Collection of assignments from the **Neural Networks** course (Computer Science @ Aristotle University of Thessaloniki).
